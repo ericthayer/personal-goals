@@ -7,7 +7,7 @@ Personal goals made open source for accountability and to allow insight into my 
  1. Join a Design or Development Team 
  2. Better Understanding of JavaScript
  3. Donate Time
- 4. Contribute to a11y
+ 4. Contribute to a11y Project 
  5. Web Performance
  6. Write a Tutorial
  7. Finish Portfolio 
@@ -47,4 +47,4 @@ Personal goals made open source for accountability and to allow insight into my 
 - [ ] Attend an international conference
 - [ ] Create my own sketchbooks
 - [ ] Write a screenplay
-- [ ] Teach
+- [ ] Teach design or development
