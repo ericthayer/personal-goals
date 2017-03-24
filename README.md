@@ -1,42 +1,50 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source for accountability and to allow insight into my personal and professional development. Inspired by [@Una](https://github.com/una)'s guide.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Overarching Goals for 2017: Mentorship
+ 1. Join a Design or Development Team 
+ 2. Better Understanding of JavaScript
+ 3. Donate Time
+ 4. Contribute to a11y
+ 5. Web Performance
+ 6. Write a Tutorial
+ 7. Finish Portfolio 
+ 8. Prototype ONE App/Product Idea
+ 9. Start a Journal
+10. Communicate Better
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# April 2, 2017
 
-# November 00, 2014
+### This Week's Goal: Wrap Things Up
 
-### This Week's Goal: Be Awesome.
+### Things I'll Do This Week:
+- [ ] [Hugo](http://gohugo.io/) setup of ethayer.co
+- [ ] Play with [EQCSS](http://elementqueries.com/)
+- [ ] Finsih Vue.js tutorials on [CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+- [ ] Continue working on CodePen projects
+- [ ] Continue working on Adobe XD UI kits
+- [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
+- [ ] Folow up with Ashley & Troy
+- [ ] Outline new soccer game for team's practice
+- [ ] 10 hours of guitar practice
 
-## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+### Things I'll Do This Month: April 2017
+- [ ] Finish portfolio design
+- [ ] Read a book (Designing Interface Animation)
+- [ ] Write a blog post for [codingartist.io](codingartist.io)
+- [ ] Finish Pattern Lab setup for ethayer.co
+- [ ] Complete ONE Adobe XD UI kit
+- [ ] Complete CodePen projects (Reader & IDP)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
-
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
-
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+### Things I'll Do One Day
+- [ ] Start a design collective
+- [ ] Start a foundation or fund to help parents going to school
+- [ ] Build a Progressive Web Application
+- [ ] Build a design system manager
+- [ ] Learn about podcast production
+- [ ] Attend an international conference
+- [ ] Create my own sketchbooks
+- [ ] Write a screenplay
+- [ ] Teach
