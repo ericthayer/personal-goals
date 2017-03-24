@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accountability and to allow insight into my personal and professional development. Inspired by [@Una](https://github.com/una)'s idea and [post](https://una.im/personal-goals-guide/#💁).
+Personal goals made open source for accountability and to allow insight into my personal and professional development. Inspired by [Una's](https://github.com/una) idea and [post](https://una.im/personal-goals-guide/#💁).
 
 # Overarching Goals for 2017: Mentorship
  1. Join a Design or Development Team 
