@@ -41,4 +41,4 @@ Personal goals made open source for accountability and to allow insight into my 
 - [ ] Lose 5lbs. 
 
 ### Things I'll Do One Day
-See (future goals list)[]
+See [future goals list](https://github.com/ericthayer/personal-goals/blob/master/future-goals/future-goals.md)
