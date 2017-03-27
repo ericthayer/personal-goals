@@ -15,28 +15,27 @@ Personal goals made open source for accountability and to allow insight into my 
  9. Start a Journal
 10. Communicate Better
 
-# April 2, 2017
+# March 25, 2017
 
 ### This Week's Goal: Wrap Things Up
 
 ### Things I'll Do This Week:
 - [ ] [Hugo](http://gohugo.io/) setup of ethayer.co
-- [ ] Play with [EQCSS](http://elementqueries.com/)
-- [ ] Finsih Vue.js tutorials on [CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 - [ ] Continue working on CodePen projects
 - [ ] Continue working on Adobe XD UI kits
 - [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
+- [ ] Read [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
 - [ ] Folow up with Ashley & Troy
-- [ ] Outline new soccer game for team's practice
-- [ ] 10 hours of guitar practice
+- [x] Folow up with Mike
+- [x] Folow up with Dan about MaxCentive logo
+- [x] Outline new soccer game for team's practice
+- [ ] 5 hours of guitar practice
 
-### Things I'll Do This Month: April 2017
+### Things I'll Do This Month: March 2017
 - [ ] Finish portfolio design
-- [ ] Read a book (Designing Interface Animation)
-- [ ] Write a blog post for [codingartist.io](codingartist.io)
-- [ ] Finish Pattern Lab setup for ethayer.co
-- [ ] Complete ONE Adobe XD UI kit
+- [x] Setup Pattern Lab for ethayer.co
 - [ ] Complete CodePen projects (Reader & IDP)
+- [ ] Lose 5lbs. 
 
 ### Things I'll Do One Day
 - [ ] Start a design collective
@@ -48,3 +47,4 @@ Personal goals made open source for accountability and to allow insight into my 
 - [ ] Create my own sketchbooks
 - [ ] Write a screenplay
 - [ ] Teach design or development
+- [ ] Send perfect tweets
