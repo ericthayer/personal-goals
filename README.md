@@ -21,11 +21,12 @@ Personal goals made open source for accountability and to allow insight into my 
 
 ### Things I'll Do This Week:
 - [ ] [Hugo](http://gohugo.io/) setup of ethayer.co
-- [ ] Continue working on CodePen projects
-- [ ] Continue working on Adobe XD UI kits
+- [x] work on CodePen projects
+- [x] work on Adobe XD UI kits
+- [x] Update Dribble
 - [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
 - [ ] Read [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-- [ ] Folow up with Ashley & Troy
+- [x] Folow up with Ashley & Troy
 - [x] Folow up with Mike
 - [x] Folow up with Dan about MaxCentive logo
 - [x] Outline new soccer game for team's practice
