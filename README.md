@@ -34,7 +34,7 @@ Personal goals made open source for accountability and to allow insight into my 
 
 ### Things I'll Do This Month: March 2017
 - [ ] Finish portfolio design
-- [ ] Finish MaxCentive logo design
+- [x] Finish MaxCentive logo design
 - [x] Setup MaxCentive dashboard
 - [x] Setup Pattern Lab for ethayer.co
 - [ ] Complete CodePen projects (Reader & IDP)
