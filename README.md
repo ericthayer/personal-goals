@@ -11,34 +11,47 @@ Personal goals made open source for accountability and to allow insight into my 
  5. Web Performance
  6. Write a Tutorial
  7. Finish Portfolio 
- 8. Prototype ONE App/Product Idea
+ 8. - [x] Prototype ONE App/Product Idea
  9. Start a Journal
 10. Communicate Better
 
-# March 25, 2017
+# April 2, 2017
 
-### This Week's Goal: Wrap Things Up
+### This Week's Goal: MaxCentive Dashboard
 
-### Things I'll Do This Week:
-- [ ] [Hugo](http://gohugo.io/) setup of ethayer.co
-- [ ] work on CodePen projects
-- [ ] work on Adobe XD UI kits
-- [ ] Update Dribble
-- [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
-- [ ] Read [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-- [ ] Follow up with Ashley & Troy
-- [ ] Follow up with Mike
-- [ ] Follow up with Dan about MaxCentive logo
+### Things I MUST Do This Week:
+- [ ] Send Invoice Reminders!
+- [ ] Follow Up with Alex about MMM
+- [ ] Follow Up with Angel about MaxCentive logo
+- [ ] Complete MaxCentive logo
+- [ ] Complete setup of [Hugo](http://gohugo.io/) for ethayer.co
+- [ ] Start MaxCentice dashboard
+- [ ] Start MMM redeign
 - [ ] Outline new soccer game for team's practice
+
+### Things I WANT To Do This Week:
+- [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
+- [ ] Work on CodePen projects
+- [ ] Work on Colorado Acess prototype
+- [ ] Update Dribble
+- [ ] Complete Vue.js tutorials on [CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+- [ ] Complete ONE Adobe XD UI kit
+- [ ] Play with [EQCSS](http://elementqueries.com/)
 - [ ] 5 hours of guitar practice
 
-### Things I'll Do This Month: March 2017
-- [ ] Finish portfolio design
-- [ ] Finish MaxCentive logo design
-- [ ] Setup MaxCentive dashboard
-- [ ] Setup Pattern Lab for ethayer.co
-- [ ] Complete CodePen projects (Reader & IDP)
-- [ ] Lose 5lbs. 
+### Things I'll MUST To Do This Month: April 2017
+- [ ] Write a blog post for [codingartist.io](codingartist.io)
+- [ ] Complete MaxCentive dashboard
+- [ ] Complete CodePen ONE project (Reader & IDP)
+- [ ] Complete ONE Adobe XD UI kit
+
+### Things I'll TRY To Do This Month: April 2017
+- [ ] Complete portfolio design
+- [ ] Complete Pattern Lab setup for ethayer.co
+- [ ] Read a book (Designing Interface Animation)
+- [ ] Read [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
+- [ ] Work on Adobe XD UI kits
+- [ ] Lose 5lbs.
 
 ### Things I'll Do One Day
 See [future goals list](https://github.com/ericthayer/personal-goals/blob/master/future-goals/future-goals.md)
