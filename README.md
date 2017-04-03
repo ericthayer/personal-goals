@@ -21,19 +21,19 @@ Personal goals made open source for accountability and to allow insight into my 
 
 ### Things I MUST Do This Week:
 - [ ] Send Invoice Reminders!
-- [ ] Follow Up with Alex about MMM
-- [ ] Follow Up with Angel about MaxCentive logo
-- [ ] Complete MaxCentive logo
+- [x] Follow Up with Alex about MMM
+- [x] Follow Up with Angel about MaxCentive logo
+- [x] Complete MaxCentive logo
 - [ ] Complete setup of [Hugo](http://gohugo.io/) for ethayer.co
-- [ ] Start MaxCentice dashboard
+- [x] Start MaxCentive dashboard
 - [ ] Start MMM redeign
 - [ ] Outline new soccer game for team's practice
 
 ### Things I WANT To Do This Week:
 - [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
 - [ ] Work on CodePen projects
-- [ ] Work on Colorado Acess prototype
-- [ ] Update Dribble
+- [x] Work on Colorado Acess prototype
+- [x] Update Dribble
 - [ ] Complete Vue.js tutorials on [CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 - [ ] Complete ONE Adobe XD UI kit
 - [ ] Play with [EQCSS](http://elementqueries.com/)
