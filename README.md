@@ -21,22 +21,22 @@ Personal goals made open source for accountability and to allow insight into my 
 
 ### Things I'll Do This Week:
 - [ ] [Hugo](http://gohugo.io/) setup of ethayer.co
-- [x] work on CodePen projects
-- [x] work on Adobe XD UI kits
-- [x] Update Dribble
+- [ ] work on CodePen projects
+- [ ] work on Adobe XD UI kits
+- [ ] Update Dribble
 - [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
 - [ ] Read [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
-- [x] Follow up with Ashley & Troy
-- [x] Follow up with Mike
-- [x] Follow up with Dan about MaxCentive logo
-- [x] Outline new soccer game for team's practice
-- [x] 5 hours of guitar practice
+- [ ] Follow up with Ashley & Troy
+- [ ] Follow up with Mike
+- [ ] Follow up with Dan about MaxCentive logo
+- [ ] Outline new soccer game for team's practice
+- [ ] 5 hours of guitar practice
 
 ### Things I'll Do This Month: March 2017
 - [ ] Finish portfolio design
-- [x] Finish MaxCentive logo design
-- [x] Setup MaxCentive dashboard
-- [x] Setup Pattern Lab for ethayer.co
+- [ ] Finish MaxCentive logo design
+- [ ] Setup MaxCentive dashboard
+- [ ] Setup Pattern Lab for ethayer.co
 - [ ] Complete CodePen projects (Reader & IDP)
 - [ ] Lose 5lbs. 
 
