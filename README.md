@@ -15,19 +15,17 @@ Personal goals made open source for accountability and to allow insight into my 
  9. Start a Journal
 10. Communicate Better
 
-# April 16, 2017
+# May 1, 2017
 
-### This Week's Goal: MaxCentive Dashboard
+### This Week's Goal: MaxCentive Dashboard Design
 
 ### Things I MUST Do This Week:
-- [x] Follow Up with Alex & Troy about MMM
-- [ ] Complete setup of [Hugo](http://gohugo.io/) for ethayer.co
-- [x] Complete MaxCentive style integration
-- [ ] Complete MMM redesign
-- [x] Outline new soccer & football practice
+- [ ] Complete MaxCentive Wallet & Dashboard design
+- [ ] Outline new soccer & football practice
 
 ### Things I WANT To Do This Week:
 - [ ] Read [Practical CSS Grid](http://meyerweb.com/eric/thoughts/2017/03/24/practical-css-grid/)
+- [ ] Complete setup of [Hugo](http://gohugo.io/) for ethayer.co
 - [ ] Work on CodePen projects
 - [ ] Work on Colorado Access prototype
 - [ ] Update Dribble
@@ -36,13 +34,13 @@ Personal goals made open source for accountability and to allow insight into my 
 - [ ] Play with [EQCSS](http://elementqueries.com/)
 - [ ] 5 hours of guitar practice
 
-### Things I'll MUST To Do This Month: April 2017
+### Things I MUST Do This Month: May 2017
 - [ ] Write a blog post for [codingartist.io](codingartist.io)
 - [ ] Complete MaxCentive dashboard
 - [ ] Complete CodePen ONE project (Reader & IDP)
 - [ ] Complete ONE Adobe XD UI kit
 
-### Things I'll TRY To Do This Month: April 2017
+### Things I'll TRY To Do This Month: May 2017
 - [ ] Complete portfolio design
 - [ ] Complete Pattern Lab setup for ethayer.co
 - [ ] Read a book (Designing Interface Animation)
